@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>20170603HOME</title>
+<title>2017HOME</title>
 </head>
 <body>
 
