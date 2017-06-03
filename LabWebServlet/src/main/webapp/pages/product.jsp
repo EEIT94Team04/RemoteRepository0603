@@ -42,6 +42,7 @@ function clearForm() {
 
 <h3>xxxProduct Table</h3>
 
+
 <form action="<c:url value="/pages/product.controller" />" method="get">
 <table>
 	<tr>
