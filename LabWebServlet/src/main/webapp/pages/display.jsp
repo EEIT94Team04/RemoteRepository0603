@@ -48,7 +48,9 @@ function hidePhoto() {
 
 <div id="photo"></div>
 
+
 <h3>Select Product Table Result : Git row(s) selected</h3>
+
 
 <c:if test="${not empty select}">
 <table>
