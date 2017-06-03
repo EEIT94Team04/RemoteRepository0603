@@ -12,7 +12,15 @@
 </head>
 <body>
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 <h3>Login</h3>
+=======
+<h3>Login Page</h3>
+>>>>>>> branch 'master' of https://github.com/EEIT94Team04/RemoteRepository0603.git
+=======
+<h3>Login</h3>
+>>>>>>> branch 'master' of https://github.com/EEIT94Team04/RemoteRepository0603.git
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
 <table>
