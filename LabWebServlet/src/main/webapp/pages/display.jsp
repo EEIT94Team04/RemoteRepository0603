@@ -50,6 +50,7 @@ function hidePhoto() {
 
 <h3>Select Product Table Result : XXX row(s) selected</h3>
 
+
 <c:if test="${not empty select}">
 <table>
 	<thead>
