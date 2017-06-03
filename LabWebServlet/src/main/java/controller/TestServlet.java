@@ -18,9 +18,9 @@ public class TestServlet extends HttpServlet {
 		PrintWriter out = response.getWriter();
 
 
+
 		out.println("<h1>蔡晴羽</h1>");
 
-		
 		out.close();
 	}
 	@Override
